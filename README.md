@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/AbletonLive-#000000?style=flat-square&logo=AbletonLive&logoColor=#000000"/>
+#03C75A
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi2102&show_icons=true&theme=radical)
 <!--
 **hi2102/hi2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
