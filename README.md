@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+<img src="https://img.shields.io/badge/HTML5?style=flat-square&logo=HTML5&logoColor=#E34F26"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi2102&show_icons=true&theme=radical)
