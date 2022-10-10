@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/static/v1?message=HTML5&color=#E34F26"/>
+<img src="https://img.shields.io/badge/HTML5-HTML5-#E34F26" />
 
+<!-- https://img.shields.io/static/v1?message=HTML5&color=#E34F26 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi2102&show_icons=true&theme=radical)
 <!--
