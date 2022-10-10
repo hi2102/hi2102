@@ -1,6 +1,7 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/AbletonLive-#000000?style=flat-square&logo=AbletonLive&logoColor=#000000"/>
-#03C75A
+
+<img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi2102&show_icons=true&theme=radical)
 <!--
