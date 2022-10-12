@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=180&section=header&text=반가워요!%20어서와요%20뿌뿌~🥳&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32)
   
-# <em>예술</em> 과 <em>기술</em> 의 융합을 꿈꾸는 예비 개발자 이지영입니다! 🖥🤝🎧
-<section>
-  <p>hey <em>guys</em>~! I'm an Artist and I'm also a prospective developer who loves art, technology and nature.</p>
-  <p>I'm <strong>JI YOUNG LEE</strong></p>
-</section>
+# <em>예술</em> 과 <em>기술</em> 의 융합을 꿈꾸는 예비 개발자 이지영입니다! 🖥🤝🎧 
+<p>hey <em>guys</em>~! I'm an Artist and I'm also a prospective developer who loves art, technology and nature.</p>
+<p>I'm <strong>JI YOUNG LEE</strong></p>
 
 ## <p>Skills</p>  
 
@@ -30,9 +28,13 @@
 
 ## <p>Social</p>
 <img alt="Gmail" src ="https://img.shields.io/badge/brilliant2102hi@gmail.com-EA4335.svg?&?style=plastic&logo=Gmail&logoColor=white"/> <img alt="Twitter" src ="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&?style=plastic&logo=Twitter&Color=white"/> <img alt="facebook" src ="https://img.shields.io/badge/facebook-%231DA1F2?&?style=plastic&logo=facebook&Color=white"/> 업데이트 중...
+
 <!-- <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-%000000?&??&?style=plastic&logo=Instagram&Color=white"/>  -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi2102&show_icons=true&theme=radical)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhi2102%2Fhit-counter&count_bg=%23999FFA&title_bg=%23E8B4B4&icon=&icon_color=%23DE7171&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **hi2102/hi2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
