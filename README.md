@@ -8,7 +8,7 @@
 
 ## <p>Skills</p>  
 ## <p>Front-End (include Library & Framework)</p>
-  > <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=plastic&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&?style=plastic&logo=CSS3&logoColor=white"/> <img alt="JS" src ="https://img.shields.io/badge/JS-F7DF1E.svg?&?style=plastic&logo=JavaScript&logoColor=white"/> <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&?style=plastic&logo=jQuery&logoColor=white"/> <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap5-7952B3.svg?&?style=plastic&logo=Bootstrap&logoColor=white"/>
+  > <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=plastic&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&?style=plastic&logo=CSS3&logoColor=white"/> <img alt="JS" src ="https://img.shields.io/badge/JS-F7DF1E.svg?&?style=plastic&logo=JavaScript&logoColor=white"/> <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&?style=plastic&logo=jQuery&logoColor=white"/> <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap5-7952B3.svg?&?style=plastic&logo=Bootstrap&logoColor=white"/> <img alt="Font Awesome" src ="https://img.shields.io/badge/fontawesome-23528DD7.svg?&?style=plastic&logo=fontawesome&logoColor=white"/> 
 ## <p>Back-End </p>
   > <img alt="NodeJs" src ="https://img.shields.io/badge/Node.js-339933.svg?&?style=plastic&logo=Node.js&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&?style=plastic&logo=MySQL&logoColor=white"/> <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&?style=plastic&logo=Express&logoColor=white"/> 
 ## <p>Learning now </p>
@@ -16,7 +16,7 @@
 
 ## <p>Tools</p>
   * ### code editor : <img alt="VSCode" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&?style=plastic&logo=Visual Studio Code&logoColor=white"/> <img alt="prettier" src="https://img.shields.io/badge/prettier-23F7B93E.svg?&?style=plastic&logo=prettier&logoColor=white"/>
-   * ### design : <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&?style=plastic&logo=Figma&logoColor=white"/> <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/photoshop-31A8FF.svg?&?style=plastic&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/-photopea-%2318A497" /> <img alt="Font Awesome" src ="https://img.shields.io/badge/fontawesome-23528DD7.svg?&?style=plastic&logo=fontawesome&logoColor=white"/> 
+   * ### design : <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&?style=plastic&logo=Figma&logoColor=white"/> <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/photoshop-31A8FF.svg?&?style=plastic&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/-photopea-%2318A497" />
   * ### scm && other : <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&?style=plastic&logo=Git&logoColor=white"/> <img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?&?style=plastic&logo=FileZilla&logoColor=white"/> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&?style=plastic&logo=Slack&logoColor=white"/> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&?style=plastic&logo=Notion&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&?style=plastic&logo=GitHub&logoColor=white"/> 
  
 ## <p>Server</p>
