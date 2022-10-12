@@ -1,8 +1,8 @@
-### When Tech Meets Art  🖥🤝🎧
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=180&section=header&text=Welcome%20My%20World!&fontSize=60)
 
-### <p align="center"> 🖼 Front-End </p>
+## When Tech Meets Art  🖥🤝🎧
 
-<div align="center">
+### <span>Front-End </span>
 <img src="https://img.shields.io/badge/-HTML5-%1572B6?style=social&logo=HTML5" /> <img src="https://img.shields.io/badge/-css3-%1572B6?style=social&logo=css3" /> <img src="https://img.shields.io/badge/-Bootstrap5-%23%237952B3?style=social&logo=bootstrap" /> <img src="https://img.shields.io/badge/-VanillaJs-%F7DF1E?style=social&logo=JavaScript" /> <img src="https://img.shields.io/badge/-react-%2361DAFB?style=social&logo=react" /> <img src="https://img.shields.io/badge/-Axios-%235A29E4?style=social&logo=axios" /> 
 </div>
 
