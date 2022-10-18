@@ -10,7 +10,7 @@
 ## <p>Back-End </p>
 <img alt="NodeJs" src ="https://img.shields.io/badge/Node.js-339933.svg?&?style=plastic&logo=Node.js&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&?style=plastic&logo=MySQL&logoColor=white"/> <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&?style=plastic&logo=Express&logoColor=white"/> 
 
-## <p>Server</p>
+## <p>Cloud</p>
 <img alt="naver" src="https://img.shields.io/badge/naver-23232F3E.svg?&?style=plastic&logo=naver&logoColor=white"/> <img alt="amazonaws" src="https://img.shields.io/badge/AWS-23232F3E.svg?&?style=plastic&logo=amazonaws&logoColor=white"/> <img alt="amazonec2" src="https://img.shields.io/badge/Amazon%20Ec2-F24E1E.svg?&?style=plastic&logo=amazonec2&logoColor=white"/> <img alt="ubuntu" src ="https://img.shields.io/badge/ubuntu-23E95420.svg?&?style=plastic&logo=ubuntu&Color=white"/>
 
 ## <p>Tools</p>
