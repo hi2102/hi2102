@@ -5,7 +5,7 @@
 <p>I'm <strong>JI YOUNG LEE</strong></p>
 
 ## <p>Front-End (include Library & Framework)</p>
-<img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=plastic&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&?style=plastic&logo=CSS3&logoColor=white"/> <img alt="JS" src ="https://img.shields.io/badge/JS-F7DF1E.svg?&?style=plastic&logo=JavaScript&logoColor=white"/> <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&?style=plastic&logo=jQuery&logoColor=white"/> <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap5-7952B3.svg?&?style=plastic&logo=Bootstrap&logoColor=white"/> <img alt="Font Awesome" src ="https://img.shields.io/badge/fontawesome-23528DD7.svg?&?style=plastic&logo=fontawesome&logoColor=white"/> 
+<img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=plastic&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&?style=plastic&logo=CSS3&logoColor=white"/> <img alt="JS" src ="https://img.shields.io/badge/JS-F7DF1E.svg?&?style=plastic&logo=JavaScript&logoColor=white"/> <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&?style=plastic&logo=jQuery&logoColor=white"/> <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap5-7952B3.svg?&?style=plastic&logo=Bootstrap&logoColor=white"/> 
 
 ## <p>Back-End </p>
 <img alt="NodeJs" src ="https://img.shields.io/badge/Node.js-339933.svg?&?style=plastic&logo=Node.js&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&?style=plastic&logo=MySQL&logoColor=white"/> <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&?style=plastic&logo=Express&logoColor=white"/> 
