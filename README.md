@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=180&section=header&text=반가워요!%20어서와요%20뿌뿌~🥳&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32)
   
 # <em>예술</em> 과 <em>기술</em> 의 융합을 꿈꾸는 개발자 이지영입니다! 🖥🤝🎧 
-<p>hey <em>guys</em>~! I'm an Artist and I'm also a prospective developer who loves art, technology and nature.</p>
+<p>hey <em>guys</em>~! I'm an Artist and I'm also a developer who loves art, technology and nature.</p>
 <p>I'm <strong>JI YOUNG LEE</strong></p>
 
 ## <p>Front-End (include Library & Framework)</p>
