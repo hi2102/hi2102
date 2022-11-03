@@ -10,7 +10,7 @@
 
 ## <p>Back-End </p>
 ### NodeJs , MySQL , Express , FileZilla 
-<img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?&?style=plastic&logo=FileZilla&logoColor=white"/> <img alt="NodeJs" src ="https://img.shields.io/badge/Node.js-339933.svg?&?style=plastic&logo=Node.js&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&?style=plastic&logo=MySQL&logoColor=white"/> <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&?style=plastic&logo=Express&logoColor=white"/> 
+<img alt="NodeJs" src ="https://img.shields.io/badge/Node.js-339933.svg?&?style=plastic&logo=Node.js&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&?style=plastic&logo=MySQL&logoColor=white"/> <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&?style=plastic&logo=Express&logoColor=white"/> <img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?&?style=plastic&logo=FileZilla&logoColor=white"/> 
 
 ## <p>Cloud</p>
 ### AWS-Ec2 , Naver-Ncloud
@@ -18,7 +18,7 @@
 
 ## <p>Tools</p>
 ### VSCode , Figma , Slack , Notion 
-<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&?style=plastic&logo=Figma&logoColor=white"/> <img alt="VSCode" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&?style=plastic&logo=Visual Studio Code&logoColor=white"/> <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/photoshop-31A8FF.svg?&?style=plastic&logo=adobephotoshop&logoColor=white"/> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&?style=plastic&logo=Slack&logoColor=white"/> <img alt="brave" src ="https://img.shields.io/badge/brave-23FB542B.svg?&?style=plastic&logo=brave&Color=white"/> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&?style=plastic&logo=Notion&logoColor=white"/> 
+<img alt="VSCode" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&?style=plastic&logo=Visual Studio Code&logoColor=white"/> <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&?style=plastic&logo=Figma&logoColor=white"/><img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&?style=plastic&logo=Slack&logoColor=white"/> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&?style=plastic&logo=Notion&logoColor=white"/> <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/photoshop-31A8FF.svg?&?style=plastic&logo=adobephotoshop&logoColor=white"/> <img alt="brave" src ="https://img.shields.io/badge/brave-23FB542B.svg?&?style=plastic&logo=brave&Color=white"/> 
 
 ## <p>Social</p>
 <img alt="Gmail" src ="https://img.shields.io/badge/brilliant2102hi@gmail.com-EA4335.svg?&?style=plastic&logo=Gmail&logoColor=white"/> <a href='https://twitter.com/whenTechMeetArt' ><img alt="Twitter" src ="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&?style=plastic&logo=Twitter&Color=white"/></a> <a href="https://www.facebook.com/whenTechMeetsArt/"><img alt="facebook" src ="https://img.shields.io/badge/facebook-%231DA1F2?&?style=plastic&logo=facebook&Color=white"/></a> <a href="https://www.instagram.com/whenTechMeetsart/"> <img alt="Instagram" src ="https://img.shields.io/badge/-instagram-%23E34F26"/> </a>
