@@ -14,7 +14,7 @@
 
 ## <p>Cloud</p>
 ### AWS , Naver
-<img alt="amazonec2" src="https://img.shields.io/badge/EC2-F24E1E.svg?&?style=plastic&logo=amazonec2&logoColor=white"/> <img alt="naver" src="https://img.shields.io/badge/nCloud-23232F3E.svg?&?style=plastic&logo=naver&logoColor=white"/> <img alt="amazonaws" src="https://img.shields.io/badge/AWS-23232F3E.svg?&?style=plastic&logo=amazonaws&logoColor=white"/> <img alt="ubuntu" src ="https://img.shields.io/badge/ubuntu-23E95420.svg?&?style=plastic&logo=ubuntu&Color=white"/>
+<img alt="amazonaws" src="https://img.shields.io/badge/AWS-23232F3E.svg?&?style=plastic&logo=amazonaws&logoColor=white"/> <img alt="amazonec2" src="https://img.shields.io/badge/EC2-F24E1E.svg?&?style=plastic&logo=amazonec2&logoColor=white"/> <img alt="naver" src="https://img.shields.io/badge/nCloud-23232F3E.svg?&?style=plastic&logo=naver&logoColor=white"/> <img alt="ubuntu" src ="https://img.shields.io/badge/ubuntu-23E95420.svg?&?style=plastic&logo=ubuntu&Color=white"/>
 
 ## <p>Tools</p>
 ### VSCode , Figma , Slack , Notion 
