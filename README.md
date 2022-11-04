@@ -1,14 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=180&section=header&text=반갑습니다!%20뿌뿌~🥳&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32)
   
-# <em>예술</em> 과 <em>기술</em> 의 융합을 꿈꾸는 개발자 이지영입니다! 🖥🤝🎧 
+# Front - end 개발자 이지영입니다! 🖥🤝🎧 
 <p>hey <em>guys</em>~! I'm an Artist and I'm also a developer who loves art, technology and nature.</p>
 <p>I'm <strong>JI YOUNG LEE</strong></p>
 
-# <p>Front-End </p>
+# <p> Skills || Stacks </p>
+
+## Front - end
+
 ### HTML5 , CSS3 , Bootstrap5 , JavaScript  , jQuery 
 <img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=plastic&logo=HTML5&logoColor=white"/>  <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&?style=plastic&logo=CSS3&logoColor=white"/>  <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap5-7952B3.svg?&?style=plastic&logo=Bootstrap&logoColor=white"/>  <img alt="JS" src ="https://img.shields.io/badge/JS-F7DF1E.svg?&?style=plastic&logo=JavaScript&logoColor=white"/>  <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&?style=plastic&logo=jQuery&logoColor=white"/>
 
-## <p>Back-End </p>
+## <p> Back-End </p>
 ### NodeJs , MySQL , Express , FileZilla 
 <img alt="NodeJs" src ="https://img.shields.io/badge/Node.js-339933.svg?&?style=plastic&logo=Node.js&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&?style=plastic&logo=MySQL&logoColor=white"/> <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&?style=plastic&logo=Express&logoColor=white"/> <img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?&?style=plastic&logo=FileZilla&logoColor=white"/> 
 
