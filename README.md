@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=180&section=header&text=반갑습니다!%20뿌뿌~🥳&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=180&section=header&text=반갑습니다!🥳&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32)
   
 # Front - end 개발자 이지영입니다! 🖥🤝🎧 
 <p>hey <em>guys</em>~! I'm an Artist and I'm also a developer who loves art, technology and nature.</p>
